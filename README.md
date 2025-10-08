@@ -1,6 +1,6 @@
 # CatoSphere MD: A Retro Resource Hub
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Kodingsnake/generated-app-20251008-001318)
 
 CatoSphere MD is a visually striking, retro-themed web application designed as a central resource hub for cat welfare in Maryland. The application adopts a nostalgic early-internet aesthetic, featuring pixel art, neon colors, glitch effects, and CRT screen textures, all while being a modern, responsive, and fast single-page application. The core functionality is to provide two clear, organized lists of resources: one for rehoming cats and another for spaying and neutering services. Each resource is presented in a distinct 'card' using an accordion component, allowing users to expand and view details without leaving the page. The entire experience is designed to be intuitive, visually engaging, and highly performant, running on Cloudflare's edge network.
 
@@ -74,7 +74,7 @@ This project is configured for seamless deployment to **Cloudflare Pages**.
 
 You can deploy this application to your own Cloudflare account with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Kodingsnake/generated-app-20251008-001318)
 
 ### Manual Deployment with Wrangler
 
